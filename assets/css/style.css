@@ -192,8 +192,8 @@ form {
 }
 
 .image {
-	width:175px;
-	height:175px;
+	width:260px;
+	height:260px;
 	display:block;
 }
 
@@ -203,7 +203,7 @@ form {
 
 .banner {
 	background-color:#4aaaa5;
-	width:175px;
+	width:260px;
 	height:50px;
 	text-align:center;
 	line-height:50px;
@@ -216,23 +216,20 @@ form {
 	position:relative;
 	float:left;
 	display:inline-block;
-	height:625px;
-	padding-left:55px;
+	height:880px;
 }
 
 .right_column {
 	display:inline-block;
 	position:relative;
-	height:442px;
-	padding-left:40px;
 }
 
 .banner1 {
-	bottom:490px;
+	bottom:665px;
 }
 
 .banner3 {
-	bottom:325px;
+	bottom:415px;
 }
 
 .banner5 {
@@ -240,11 +237,11 @@ form {
 }
 
 .banner2 {
-	bottom:295px;
+	bottom:385px;
 }
 
 .banner4 {
-	bottom:130px;
+	bottom:135px;
 }
 
 .image5 {
